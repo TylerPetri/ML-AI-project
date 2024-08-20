@@ -7,6 +7,9 @@ If someone who doesn't have an M-mac chip could run this and open a PR with save
 Cosine Similarity: https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
 
 Plant Disease Detection: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
+## Local Data Architecture
+
 ```
 📦Plant Disease Detection
  ┣ 📂test
