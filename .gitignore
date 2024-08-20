@@ -1,1 +1,6 @@
 *.csv
+
+# Plant Disease Detection data files
+/Plant Disease Detection/test
+/Plant Disease Detection/train
+/Plant Disease Detection/valid
