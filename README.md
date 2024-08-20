@@ -1,6 +1,6 @@
-# ML-AI-project
+# ML-AI-project (in progress)
 
 ... Currently finding project idea ...
 
-~! recovered from epic weekend, it is Monday my dudes... processing !~
-* discovered kaggle -- looking
+# Daily log
+* Discovered Kaggle - Set up environment - Got feet wet (cosine similarity)
