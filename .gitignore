@@ -1,4 +1,5 @@
 *.csv
+.DS_Store
 
 # Plant Disease Detection data files
 /Plant Disease Detection/test
