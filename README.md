@@ -1,5 +1,8 @@
 # ML-AI-project (in progress)
 
+If someone who doesn't have an M-mac chip could run this and open a PR with saved models that would be fantastic xD
+(Figuring out how to run on legacy Adam optimizer)
+
 ## Data links
 Cosine Similarity: https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
 
@@ -30,3 +33,4 @@ Plant Disease Detection: https://www.kaggle.com/datasets/vipoooool/new-plant-dis
 # Daily log
 * Aug-19  Discovered Kaggle - Set up environment - Got feet wet (cosine 
 similarity)
+* Aug-20 ongoing
