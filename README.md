@@ -3,4 +3,5 @@
 ... Currently finding project idea ...
 
 # Daily log
-* Discovered Kaggle - Set up environment - Got feet wet (cosine similarity)
+* Aug-19  Discovered Kaggle - Set up environment - Got feet wet (cosine 
+similarity)
