@@ -1,4 +1,4 @@
-# ML-AI-project (in progress)
+# Plant Disease Detection
 
 A multi-class plant disease detection machine learning workflow:
 * Kaggle Dataset (see link below)
